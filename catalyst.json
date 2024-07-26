@@ -1,0 +1,14 @@
+{
+  "functions": {
+    "targets": [
+      "AlienCityAIO"
+    ],
+    "ignore": [
+      ".output"
+    ],
+    "source": "functions"
+  },
+  "client": {
+    "source": "client"
+  }
+}

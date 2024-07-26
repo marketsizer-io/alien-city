@@ -1,0 +1,4 @@
+{
+  // Add other existing settings here
+  "java.jdt.ls.java.home": "/path/to/your/jdk-17"
+}
